@@ -1,4 +1,4 @@
-# Internship-Assignments
+# Internship-Assignments (Repository created to group all assignments in one repository)
 All 5 assignments 
 
 Assignmenet I - R basics (Introduction to R)
