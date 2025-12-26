@@ -30,10 +30,10 @@ Project titles
      
   3. Exploring Molecular Crossroads between Cancer and Neurodegenerative Disorders
      Contributors:
-       Anupama Satyarthi (Group Leader)
-       Amit Kumar
-       Sheriffdeen Hammed
-       Rawan Attef
-       Yusuf Munir Aliyu
-       Esha Shahbaz
-       Rihab BENSALEK
+       Anupama Satyarthi (Group Leader) (anupama.medoptics)
+       Amit Kumar (amitkumar080196
+       Hammed Sheriffdeen Oladimeji (SheriffdeenHammed)
+       Rawan Attef (rawanateff1080)
+       Yusuf Munir Aliyu (aymunir1)
+       Esha Shahbaz (esha_shahbaz_11241)
+       Rihab BENSALEK (biotechexplorer_79059)
