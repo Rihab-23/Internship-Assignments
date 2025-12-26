@@ -19,4 +19,21 @@ Assignment V - Prob IDs to gene mapping, Differential Gene Expression (DEG) Anal
 
 Project titles
   1. Shared Molecular Biomarkers between Heart Failure (Cardiovascular Disease) and Breast Cancer
-  2. Exploring Molecular Crossroads between Cancer and Neurodegenerative Disorders
+     Github repository Link (Project): https://github.com/aymunir1/CardioOncology-Bioinformatics-Workflow.git
+     Contributors: 
+       Yusuf Munir Aliyu (aymunir1)
+       Abeer Ali (abeer_ali_)
+       Rashi Gupta (rashig_23)
+       Rawan Ateff (rawanateff1080)
+       Rihab BENSALEK (biotechexplorer_79059)
+       Imoleayo (imoleayo0964)
+     
+  3. Exploring Molecular Crossroads between Cancer and Neurodegenerative Disorders
+     Contributors:
+       Anupama Satyarthi (Group Leader)
+       Amit Kumar
+       Sheriffdeen Hammed
+       Rawan Attef
+       Yusuf Munir Aliyu
+       Esha Shahbaz
+       Rihab BENSALEK
